@@ -83,7 +83,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(/images/background001.jpg);
+    background-image: url(https://github.com/rafaelclima/projeto-cordel/blob/main/images/background001.jpg);
     background-position: center center;
 }
 
