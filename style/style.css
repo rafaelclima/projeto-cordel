@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Passion+One:wght@400;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
@@ -9,14 +15,7 @@
     --fonte3: 'Sriracha', cursive;
 }
 
-
-* {
-    margin: 0;
-    padding: 0;
-    font-size: 1em;
-}
-
-body {
+html, body {
     min-height: 100vh;
     background-color: darkgray;
     font-family: var(--fonte1);
